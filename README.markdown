@@ -1,4 +1,4 @@
-# homebrew-mrkn-casks
+# homebrew-mrkn_casks
 
 Casks for mrkn personal use.
 

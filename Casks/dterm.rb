@@ -1,4 +1,4 @@
-class Dterm < Cask
+cask :v1 => 'dterm' do
   url 'http://files.decimus.net/DTerm/DTerm.zip'
   homepage 'http://decimus.net/dterm'
   version '1.6'

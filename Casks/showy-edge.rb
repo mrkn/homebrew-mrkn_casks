@@ -1,4 +1,4 @@
-class ShowyEdge < Cask
+cask :v1 => 'showy-edge' do
   url 'https://pqrs.org/macosx/ShowyEdge/files/ShowyEdge-1.7.0.dmg'
   homepage 'https://pqrs.org/macosx/ShowyEdge/index.html.ja'
   version '1.7.0'

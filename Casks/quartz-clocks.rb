@@ -1,4 +1,4 @@
-class QuartzClocks < Cask
+cask :v1 => 'quartz-clocks' do
   url 'https://www.macupdate.com/download/23561/quartzclocks.dmg'
   homepage 'https://www.macupdate.com/app/mac/23561/quartzclocks/'
   version '1.3.6'

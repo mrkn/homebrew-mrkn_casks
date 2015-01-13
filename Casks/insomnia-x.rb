@@ -1,4 +1,4 @@
-class InsomniaX < Cask
+cask :v1 => 'insomnia-x' do
   url 'http://insomniax.semaja2.net/InsomniaX-2.1.3.tgz'
   homepage 'http://semaja2.net/archives/258'
   version '2.1.3'
